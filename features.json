@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "enabled": true,
+  "enabled": false,
   "features": {
     "ESP_HP": 1,
     "ESP_NAME": 1,
